@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-#### I'm Mithesh Ramachandran
+## I'm Mithesh Ramachandran
 
 About Me
 ---
