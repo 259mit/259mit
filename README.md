@@ -30,7 +30,7 @@ About Me
   
 <div align="center">
   
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=259mit&repo=AirInteract&theme=dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=259mit&repo=AirInteract&theme=dark)(https://github.com/259mit/AirInteract)
 
 
 
