@@ -10,7 +10,7 @@ About Me
 - I’m currently working on building end-to-end Speech Recognition systems.
 - Want to learn basics of Computer Vision? Check out the repo Image_Processing_interactive!
 - Check out my Dynamic Gesture Recognition Platform: AirInteract.
-- Searching for Data Cleaning and Preprocessing tools? Check out my python package MAHA on pypi. The downloads are 'OVER 9000!'
+- Searching for Data Cleaning and Preprocessing tools? Check out my python package MAHA on pypi. The downloads are 'OVER 9000!' (Any Vegeta fans out here?)
 - For Kaldi Speech Recognition recipes, check AssameseASR and TamilASR
 
 
