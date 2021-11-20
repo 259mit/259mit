@@ -9,7 +9,7 @@ About Me
 - I'm interested in Deep Learning, Computer Vision and Signal and Speech Processing.
 - I’m currently working on building end-to-end Speech Recognition systems.
 - I'm also passionate about Market Research and DataViz apps.
-- Also working on Trade Signal analysis in different markets, having previously worked on Indian and American stock markets.
+- Also working on Trade Signal analysis in different markets, having previously worked on Indian and American stock markets (Check out Trade_Signal_Indicator).
 - Want to learn basics of Computer Vision? Check out the repo Image_Processing_interactive!
 - Check out my Dynamic Gesture Recognition Platform: AirInteract.
 - Searching for Data Cleaning and Preprocessing tools? Check out my python package MAHA on pypi. The downloads are 'OVER 9000!' (Any Vegeta fans out here?)
