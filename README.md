@@ -14,7 +14,7 @@ About Me
 - Check out my Dynamic Gesture Recognition Platform: AirInteract.
 - Searching for Data Cleaning and Preprocessing tools? Check out my python package MAHA on pypi. The downloads are 'OVER 9000!' (Any Vegeta fans out here?)
 - For Kaldi Speech Recognition recipes, check AssameseASR and TamilASR
-- For information on my submission to McGill University McMedHacks Medical Imaging and Deep Learning Hackathon, that my team won in 2 categories, check out DIME and AlphaTauSeed.
+- Check out my submission to McGill University McMedHacks Medical Imaging and Deep Learning Hackathon, that my team won in 2 categories, check out DIME and AlphaTauSeed.
 
 
 ## Profile Stats
