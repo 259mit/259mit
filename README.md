@@ -12,3 +12,6 @@
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/64850155/141142848-d50a49a5-e5ff-443d-bf43-5b5e8bddd14d.gif" width = 300>
+
+![Mithesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=259mit&show_icons=true&theme=radical)
+
