@@ -2,7 +2,7 @@
 
 ## I'm Mithesh Ramachandran!
 
-About Me
+About Me:
 ---
 <img align="right" img src="https://user-images.githubusercontent.com/64850155/141142848-d50a49a5-e5ff-443d-bf43-5b5e8bddd14d.gif" width = 400>
 
