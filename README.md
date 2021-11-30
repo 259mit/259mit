@@ -17,7 +17,7 @@ About Me:
 - Check out my submission to McGill University McMedHacks Medical Imaging and Deep Learning Hackathon, that my team won in 2 categories, check out DIME and AlphaTauSeed.
 
 
-## Profile Stats
+## Profile Stats:
 <div align="center">
   
 ![Mithesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=259mit&show_icons=true&theme=dark)
