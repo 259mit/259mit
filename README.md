@@ -6,6 +6,7 @@ About Me:
 ---
 <img align="right" img src="https://user-images.githubusercontent.com/64850155/141142848-d50a49a5-e5ff-443d-bf43-5b5e8bddd14d.gif" width = 400>
 
+
 - I'm interested in Deep Learning, Computer Vision and Signal and Speech Processing.
 - I’m currently working on building end-to-end Speech Recognition systems.
 - I'm also passionate about Market Research and DataViz apps.
