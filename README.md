@@ -27,7 +27,7 @@ About Me:
 
 <div align="left">
   
-## Top Apps:
+## Top Apps :
   
 <div align="center">
   
